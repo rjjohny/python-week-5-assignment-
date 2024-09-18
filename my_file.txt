@@ -1,0 +1,6 @@
+Hello, World!
+This is line 2 with a number: 42
+Third line: Python file handling is fun!
+Appending a new line 1!
+Appending a new line 2: 100
+Final append: Enjoy coding!
